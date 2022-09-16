@@ -6,7 +6,7 @@
 
 Projeto construído no evento NExt Level Week (NLW) da ROCKETSEAT.
 
-Clique [🔗aqui🔗]([htpps://](https://robsferreira.github.io/NLW-eSPORTS-Explorer/)) para acessar
+ 🔗 [Clique aqui para acessar]([htpps://](https://robsferreira.github.io/NLW-eSPORTS-Explorer/)) 
 
 ## Tecnologias 👨‍💻
 

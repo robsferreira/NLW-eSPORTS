@@ -1,4 +1,19 @@
-Bem vindos ao NLW da ROCKETSEAT
+# NLW eSports
 
-Estou reaprendento a fazer o repositorio do GIT
-Iniciando atividades na comunidade e aquecendo os motores.
+![oreview](.github/preview.png)
+
+>Trilha Explorer
+
+Projeto construído no evento NExt Level Week (NLW) da ROCKETSEAT.
+
+Clique [🔗aqui🔗]([htpps://](https://robsferreira.github.io/NLW-eSPORTS-Explorer/)) para acessar
+
+## Tecnologias 👨‍💻
+
+- HTML
+- CSS
+- Git e GitHub
+  
+  📧 Contato
+
+  robsferreira@gmail.com

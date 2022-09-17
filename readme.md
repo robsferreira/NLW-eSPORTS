@@ -4,7 +4,7 @@
 
 >Cuidando do seu equipamento como se fosse nosso.
 
-Desafio enviado pelo grande Mayk Brito.
+Desafio enviado pelo grande Mayk Brito...
 
   [🔗 Clique aqui para acessar](https://robsferreira.github.io/oficina_do-computador/) 
     

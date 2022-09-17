@@ -1,12 +1,12 @@
-# NLW eSports
+# Oficina do Computador
 
 ![preview](./.github/preview.png)
 
->Trilha Explorer
+>Cuidando do seu equipamento como se fosse nosso.
 
-Projeto construído no evento NExt Level Week (NLW) da Rocketseat.
+Desafio enviado pelo grande Mayk Brito.
 
-  [🔗 Clique aqui para acessar](https://robsferreira.github.io/NLW-eSPORTS-Explorer/) 
+  [🔗 Clique aqui para acessar](https://robsferreira.github.io/oficina_do-computador/) 
     
 
   ## 👨‍💻 Tecnologias 

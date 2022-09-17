@@ -9,16 +9,15 @@ ul {
 }
 
 body {
-    background-image: url(./assets/_bg2.png);
+    background-image: url(./assets/bg.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #0b0b1f;
+    background-color: #121214;
 }
 
 body * {
-    /* font-family: 'Inter', sans-serif; */
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 header {
@@ -28,7 +27,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #f89626 0%, #43E7AD 50.52%, #d333be 100%);
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
 
 
     border-radius: 50%;
@@ -58,7 +57,7 @@ main {
 
 section {
     color: white;
-    background-image: linear-gradient(90deg, #f89626 0%, #43E7AD 50.52%, #d333be 100%);
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
     padding-top: 4px;
     border-radius: 10px;
 }
@@ -113,7 +112,7 @@ header div {
 }
 
 main section {
-    animation: fromBottom .60s .2s backwards;
+    animation: fromBottom .7s .2s backwards;
 }
 
 main section:nth-child(1) {
@@ -143,7 +142,7 @@ main  section:nth-child(3) {
 @keyframes fromBottom {
     from {
         opacity: 0;
-        transform: translateY(-30px);
+        transform: translateY(30px);
     }
 
     to {

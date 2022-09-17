@@ -1,12 +1,12 @@
-# Oficina do Computador
+# NLW eSports 
 
 ![preview](./.github/preview.png)
 
->Cuidando do seu equipamento como se fosse nosso.
+>Trilha Explorer.
 
-Desafio enviado pelo grande Mayk Brito...
+Projeto desenvolvido na semana Next Level Week.
 
-  [🔗 Clique aqui para acessar](https://robsferreira.github.io/oficina_do-computador/) 
+  [🔗 Clique aqui para acessar](https://robsferreira.github.io/NLW-eSPORTS-Explorer/) 
     
 
   ## 👨‍💻 Tecnologias 
